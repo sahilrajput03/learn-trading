@@ -164,6 +164,7 @@ SOURCE OF INFORMATION:
 - Charting softwares
 - Other resources
 
+https://www.Finviz.com
 
 ----- new section 4 -----
 
