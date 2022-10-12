@@ -1,3 +1,7 @@
+### PLEASE REFER graphical info @ https://github.com/sahilrajput03/sahilrajput03/blob/master/learn-stocks.md
+
+# Learn Trading
+
 WHAT POSSIBLE WAYS TO GET MONEY FOR TRADING?
 - invest your own money or someone's money
 - companies hire good traders with good history
